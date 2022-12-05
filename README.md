@@ -1,70 +1,116 @@
-# Getting Started with Create React App
+<!-- Título -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">App Finance</h1>
+<div align="center">
+<img src="./src/assets/finance.png" width="180px">
+</div>
 
-## Available Scripts
+<!-- Descrição -->
 
-In the project directory, you can run:
+<p align="center">App Web para controle financeiro, guardando dados no LocalStorage da máquina. Opções de "Entrada" e "Saída", tendo a opção de remoção do item.</p>
 
-### `npm start`
+<!-- Súmario -->
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="center">
+ <a href="#demo">Demo</a> •
+ <a href="#rodando-a-aplicação">Rodando A Aplicação</a> •
+ <a href="#tecnologias">Tecnologias</a> •
+ <a href="#autor">Autor</a>
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br>
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<br>
 
-### `npm run build`
+## Demo
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<br>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<p>Home Screen</p>
+<img src="src/assets/home.png" width="960px" align="center">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `npm run eject`
+<p>Add Itens</p>
+<img src="src/assets/add.png" width="960px" align="center">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<br>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p>Add Itens</p>
+<img src="src/assets/out.png" width="960px" align="center">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<br>
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p>Finish Screen</p>
+<img src="src/assets/finish.png" width="960px" align="center">
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Rodando A Aplicação
 
-### Code Splitting
+<a href="https://Finance.vercel.app/" target="_blank">Acesso o site do Projeto, clicando aqui.</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+https://Finance.vercel.app/
+```
 
-### Analyzing the Bundle Size
+<br>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+### Requirimentos
 
-### Making a Progressive Web App
+- [Node](https://nodejs.org/en/)
+- [Yarn](https://classic.yarnpkg.com/lang/en/) or [Npm](https://www.npmjs.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+<br>
 
-### Advanced Configuration
+### Clone o repositório e acesse a pasta
+```
+$ git clone https://github.com/MatheusPalmieri/Finance && cd Finance
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<br>
 
-### Deployment
+### Siga as etapas para rodar o Projeto em sua máquina local
+```
+# Para instalar as dependências necessárias
+$ npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Para startar projeto
+$ npm start
 
-### `npm run build` fails to minify
+Abra o browser na página "http://localhost:3000" para visualizar.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```
+<br>
+
+---
+
+<br>
+
+## Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [React](https://pt-br.reactjs.org/)
+- [JavaScript](https://www.javascript.com/)
+- [Styled-Components](https://styled-components.com/)
+- [React Icons](https://react-icons.github.io/react-icons/)
+
+<br>
+
+---
+
+<br>
+
+### Autor
+
+Create for <b>`Matheus Palmieri`</b>👨‍💻
+
+<br>
+<br>
+
+<p align="center">App Finance Finalizado🚀</p>
