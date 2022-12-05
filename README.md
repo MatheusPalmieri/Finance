@@ -52,10 +52,10 @@
 
 ## Rodando A Aplicação
 
-<a href="https://Finance.vercel.app/" target="_blank">Acesso o site do Projeto, clicando aqui.</a>
+<a href="https://finance-dun.vercel.app/" target="_blank">Acesso o site do Projeto, clicando aqui.</a>
 
 ```
-https://Finance.vercel.app/
+https://finance-dun.vercel.app/
 ```
 
 <br>
